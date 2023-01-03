@@ -15,17 +15,7 @@ Users can follow and unfollow other users and it will render across the entire a
 
 ## Dependencies
 
-[![dependency - Node.js](https://img.shields.io/static/v1?label=dependency&message=Node.js&color=%23F7E152)](https://nodejs.org/en/) <br> 
-[![library - React.js](https://img.shields.io/static/v1?label=library&message=React.js&color=%2352F7BA)](https://reactjs.org/)<br> 
-[![icons - react unicons](https://img.shields.io/static/v1?label=icons&message=react+unicons&color=%2352C2F7)](https://iconscout.com/icons?gclid=CjwKCAiAwc-dBhA7EiwAxPRylPC3t-9e5BD0qGYYpi6p8e1Ub8JHd18hqx4h0iwB_KswYTnXbAj2iRoCLboQAvD_BwE)<br>  
-[![language - javascript](https://img.shields.io/static/v1?label=language&message=javascript&color=%23EEF752)](https://www.javascript.com/)<br>
-[![modal - mantime-modal](https://img.shields.io/static/v1?label=modal&message=mantime-modal&color=%23F76F52)](https://mantine.dev/core/modal/)<br>      
-[![authentication - JWT](https://img.shields.io/static/v1?label=authentication&message=JWT&color=%23F7525B)](https://jwt.io/introduction)<br>      
-[![database - mongoDB](https://img.shields.io/static/v1?label=database&message=mongoDB&color=%23F7525B)](https://www.mongodb.com/home)<br>       
-[![API - Rest API](https://img.shields.io/static/v1?label=API&message=Rest+API&color=%237DCEA0)](https://restfulapi.net/)<br>
-[![Dependency - Express](https://img.shields.io/static/v1?label=Dependency&message=Express&color=%23F39C12)](https://expressjs.com/)<br>
-[![Library - Mongoose](https://img.shields.io/static/v1?label=Library&message=Mongoose&color=%233498DB+)](https://mongoosejs.com/)<br>
-[![Encryption - bcrypt](https://img.shields.io/static/v1?label=Encryption&message=bcrypt&color=%235DADE2)](https://www.npmjs.com/package/bcrypt)
+[![dependency - Node.js](https://img.shields.io/static/v1?label=dependency&message=Node.js&color=%23F7E152)](https://nodejs.org/en/) <br>[![library - React.js](https://img.shields.io/static/v1?label=library&message=React.js&color=%2352F7BA)](https://reactjs.org/)<br>[![icons - react unicons](https://img.shields.io/static/v1?label=icons&message=react+unicons&color=%2352C2F7)](https://iconscout.com/icons?gclid=CjwKCAiAwc-dBhA7EiwAxPRylPC3t-9e5BD0qGYYpi6p8e1Ub8JHd18hqx4h0iwB_KswYTnXbAj2iRoCLboQAvD_BwE)<br>[![language - javascript](https://img.shields.io/static/v1?label=language&message=javascript&color=%23EEF752)](https://www.javascript.com/)<br>[![modal - mantime-modal](https://img.shields.io/static/v1?label=modal&message=mantime-modal&color=%23F76F52)](https://mantine.dev/core/modal/)<br>[![authentication - JWT](https://img.shields.io/static/v1?label=authentication&message=JWT&color=%23F7525B)](https://jwt.io/introduction)<br>[![database - mongoDB](https://img.shields.io/static/v1?label=database&message=mongoDB&color=%23F7525B)](https://www.mongodb.com/home)<br>[![API - Rest API](https://img.shields.io/static/v1?label=API&message=Rest+API&color=%237DCEA0)](https://restfulapi.net/)<br>[![Dependency - Express](https://img.shields.io/static/v1?label=Dependency&message=Express&color=%23F39C12)](https://expressjs.com/)<br>[![Library - Mongoose](https://img.shields.io/static/v1?label=Library&message=Mongoose&color=%233498DB+)](https://mongoosejs.com/)<br>[![Encryption - bcrypt](https://img.shields.io/static/v1?label=Encryption&message=bcrypt&color=%235DADE2)](https://www.npmjs.com/package/bcrypt)
 
 
 ## Demo
