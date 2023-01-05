@@ -87,6 +87,9 @@ After this add .env variables to render and update the IP
 addresses in MongoDB.
 Deploy Server!
 
+
+
+
 #### For Frontend/client
 * Static site
 Branch
