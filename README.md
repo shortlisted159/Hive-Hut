@@ -59,14 +59,60 @@ https://social-media-yqi8.onrender.com
 
 
 
+
 ## Deployment
 
-This project has been deployed using render.
-For the separate files i.e. client and server, we make two different web services.
-For server we use web site deployment and for client we use static site 
-deployment.
-We upload the .env variables to the site and we give access to the IP addresses in 
-Mongo DB.
+This project has been deployed using Render.com
+#### For Backend/server
+* Web Service App
+   
+Branch
+```bash
+  main
+```
+Root directory
+
+```bash
+  server
+```
+Build command
+```bash
+  npm install
+```
+Start command
+```bash
+  npm run start
+```
+After this add .env variables to render and update the IP
+addresses in MongoDB.
+Deploy Server!
+
+#### For Frontend/client
+* Static site
+Branch
+```bash
+  main
+```
+Root directory
+
+```bash
+  client
+```
+Build command
+```bash
+  yarn run build
+```
+Start command
+```bash
+  build
+```
+
+After this add .env variables to render.
+Change the instances of backend link from client to the 
+new provided link from deployed site from backend.
+Deploy client!
+
+
 
 
 
