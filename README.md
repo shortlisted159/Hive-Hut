@@ -111,7 +111,7 @@ Start command
 ```
 
 After this add .env variables to render.<br>
-Change the instances of backend link from <br>client to the new provided link from deployed site from backend.<br>
+Change the instances of backend link from client to the new provided link from deployed site from backend.<br>
 Deploy client!
 
 
