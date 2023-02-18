@@ -51,7 +51,6 @@ const ProfileCard = ({location}) => {
       </div>
       {location === 'profilePage' ? "" :
         <span>
-//         meow??
           <Link to={`/profile/${user._id}`} style={{ textDecoration: "none", color: "inherit" }}>
             My Profile
           </Link>
