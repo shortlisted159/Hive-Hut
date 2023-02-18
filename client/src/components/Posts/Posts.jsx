@@ -26,9 +26,9 @@ const Posts = () => {
         : posts.map((post, id) => {
           return <Post data={post} key={id} />;
         })}
-//     When a user logs in, this is displayed when the page loads.
     </div>
   );
 };
+//     When a user logs in, this is displayed when the page loads.
 
 export default Posts;
