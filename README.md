@@ -110,9 +110,8 @@ Start command
   build
 ```
 
-After this add .env variables to render.<br>
-Change the instances of backend link from <br>client to the 
-new provided link from deployed site from backend.<br>
+After this add .env variables to render.<br?
+Change the instances of backend link from <br>client to the new provided link from deployed site from backend.<br>
 Deploy client!
 
 
