@@ -14,7 +14,7 @@ const User = ({person}) => {
 
         setFollowing((prev)=>!prev)
     }
-
+//  imagine dispatch to be like a courier, that transfers information to and from the redux store
     return (
         <div className="follower">
             <div>
