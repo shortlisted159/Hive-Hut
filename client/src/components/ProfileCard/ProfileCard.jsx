@@ -3,6 +3,7 @@ import "./ProfileCard.css"
 import { useSelector } from "react-redux";
 import { Link } from "react-router-dom";
 
+// Location specifies the current page the user is at
 const ProfileCard = ({location}) => {
 
   const { user } = useSelector((state) => state.authReducer.authData);
