@@ -9,6 +9,7 @@ const ProfileCard = ({location}) => {
   const { user } = useSelector((state) => state.authReducer.authData);
   const posts = useSelector((state)=>state.postReducer.posts)
   const serverPublic = process.env.REACT_APP_PUBLIC_FOLDER;
+//   This folder is the global folder for photos.
 
 
   return (
